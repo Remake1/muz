@@ -4,12 +4,7 @@ import 'firebase/auth'
 import 'firebase/storage'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCf4g7zD_WQvgYCAjrBq8KeiTs6VqKgFqk",
-    authDomain: "muz-service.firebaseapp.com",
-    projectId: "muz-service",
-    storageBucket: "muz-service.appspot.com",
-    messagingSenderId: "961036865961",
-    appId: "1:961036865961:web:6888b01f8193e25c30b4b8"
+// config
 };
 
 firebase.initializeApp(firebaseConfig)
